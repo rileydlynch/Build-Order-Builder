@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/build-order-builder/static/js/main.41da50d4.chunk.js",
+    "main.js.map": "/build-order-builder/static/js/main.41da50d4.chunk.js.map",
+    "runtime-main.js": "/build-order-builder/static/js/runtime-main.aed49024.js",
+    "runtime-main.js.map": "/build-order-builder/static/js/runtime-main.aed49024.js.map",
+    "index.html": "/build-order-builder/index.html",
+    "static/js/main.41da50d4.chunk.js.LICENSE.txt": "/build-order-builder/static/js/main.41da50d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aed49024.js",
+    "static/js/main.41da50d4.chunk.js"
+  ]
+}
